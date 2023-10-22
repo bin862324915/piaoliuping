@@ -1,5 +1,5 @@
-# piaoliuping
-基于leancloud 开发的一个漂流瓶网页
+# 漂流瓶应用
+基于leancloud 开发的一个html漂流瓶应用
 
 **示例**
 
