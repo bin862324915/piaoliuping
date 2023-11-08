@@ -3,4 +3,4 @@
 
 **示例**
 
-https://bin862324915.github.io/html/plp/
+https://bin862324915.github.io/app/plp/
